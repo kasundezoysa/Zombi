@@ -10,7 +10,7 @@ git clone https://github.com/kasundezoysa/Zombi.git
 
 cd Zombi
 
-# Execution
+## Execution
 
 1. Start the Command & Control (C2) Server
 
