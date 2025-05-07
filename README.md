@@ -1,4 +1,4 @@
-# Zombi Botnet Simulation Framework
+# Zombi Botnet Simulater
 
 A controlled environment for studying botnet command and control (C2) architectures.
 
