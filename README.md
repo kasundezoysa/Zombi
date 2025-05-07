@@ -1,6 +1,15 @@
 # Zombi
-Zombi Simulater
+Setup & Execution
 
-1. First start the commmand and control (c2) server > python3 c2.py
-2. Then start the Zombi master > python3 bMaster.py and initialze the command to be sent to the bot.
-3. Finnaly run the bot > python3 bot.py and check the c2 server outputs!!
+1. Start the Command & Control (C2) Server
+>python3 c2.py
+This will launch the c2 server to manage bot communications.
+
+2. Launch the Zombie Master
+>python3 bMaster.py
+Initialize the commands to be sent to the bot network.
+
+3. Run the Bot Client
+>python3 bot.py
+Monitor the C2 server logs for bot interactions and outputs.
+
