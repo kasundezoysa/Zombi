@@ -1,3 +1,35 @@
+# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+## Legal Text
+# [Full Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+## Human-Readable Summary
+
+### You are free to:
+#- **Share** — copy and redistribute the material
+#- **Adapt** — remix, transform, and build upon the material
+
+### Under these terms:
+#- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+#- **NonCommercial** — You may not use the material for commercial purposes.
+#- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+### Additional Educational Restrictions:
+# 1. **Ethical Use Clause**  
+#   This software is provided solely for:
+#   - Academic research
+#   - Cybersecurity education
+#   - Defensive security training
+
+# 2. **Prohibited Uses**  
+#   Explicitly forbidden:
+#   - Malicious hacking
+#   - Unauthorized penetration testing
+#   - Military/weapons applications
+#   - Commercial security products
+
+# 3. **Liability**  
+#   The licensor bears no responsibility for misuse of this software.
+
 import requests
 import subprocess
 import platform
