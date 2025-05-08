@@ -2,8 +2,6 @@
 ## CC BY-NC-SA 4.0
 #  [Full Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-## Human-Readable Summary
-
 ### You are free to:
 #- **Share** — copy and redistribute the material
 #- **Adapt** — remix, transform, and build upon the material
