@@ -1,6 +1,6 @@
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-## Legal Text
-# [Full Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+## CC BY-NC-SA 4.0
+#  [Full Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 ## Human-Readable Summary
 
